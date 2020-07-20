@@ -11,14 +11,18 @@ _Create a digital Mad Libs game using ASP.NET Core MVC. Users should be presente
 ### Specs
 | Spec | Input | Output | Done? |
 | :-------------     | :------------- | :------------- | :------------- | 
-| Program will... | input: | output:  | [ ] |
+| Program will promt the user to enter in various words. | input:  | output: "please enter a noun" | [ ] |
+| Program will then create a mad libs using the inputted words gathered from the user. | input: "some words" | output: "fun mad libs!" | [ ] |
 
 ## Setup/Installation Requirements
 
-* _Visit the following link: _
+* _Visit the following link: https://github.com/thekidnamedkd/Madlib.Solution_
 * _Clone the repository to your desired directory._
-* _OR_
-* _Visit here: _
+* _Use the terminal to navigate into to Madlib.Solution._
+* _Once inside the folder, navigate further to the Madlib folder._
+* _There you can use the command ```dotnet restore``` followed by ```$dotnet run``` to open the application in your browser. You should start the program_
+* _Make sure you have the .NET Core installed for your operating system. If you are unsure go here https://dotnet.microsoft.com/download/dotnet-core/2.2. Find the right version for you and install. Then restart from step 3._
+* _Follow the onscreen prompts._
 
 
 ## Known Bugs
